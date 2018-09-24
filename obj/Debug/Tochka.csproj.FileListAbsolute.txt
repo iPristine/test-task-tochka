@@ -1,0 +1,53 @@
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\Tochka.exe.config
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\Tochka.exe
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\Tochka.pdb
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\System.Net.Http.dll
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\VkNet.dll
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\VkNet.xml
+C:\Users\ipris\source\repos\Tochka\Tochka\obj\Debug\Tochka.csprojAssemblyReference.cache
+C:\Users\ipris\source\repos\Tochka\Tochka\obj\Debug\Tochka.csproj.CoreCompileInputs.cache
+C:\Users\ipris\source\repos\Tochka\Tochka\obj\Debug\Tochka.csproj.CopyComplete
+C:\Users\ipris\source\repos\Tochka\Tochka\obj\Debug\Tochka.exe
+C:\Users\ipris\source\repos\Tochka\Tochka\obj\Debug\Tochka.pdb
+C:\Users\ipris\source\repos\Tochka\Tochka\bin\Debug\xNet.dll
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\Tochka.exe.config
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\Tochka.exe
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\Tochka.pdb
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\System.Net.Http.dll
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\VkNet.dll
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\bin\Debug\VkNet.xml
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\obj\Debug\Tochka.csprojAssemblyReference.cache
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\obj\Debug\Tochka.csproj.CoreCompileInputs.cache
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\obj\Debug\Tochka.csproj.CopyComplete
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\obj\Debug\Tochka.exe
+C:\Users\Малых Денис\Desktop\Tochka\Tochka\obj\Debug\Tochka.pdb
